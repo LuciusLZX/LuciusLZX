@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucius! 
+# 👋 Hi, I'm Lucius, and I'm Gay! 
 ### Software Engineering Student & Passionate Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucius-lim-zong-xian-07020a363)
