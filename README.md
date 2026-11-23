@@ -49,21 +49,19 @@ Here are some projects I'm particularly proud of:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **⚔️ Online Gaming Lobby** | A full-stack, distributed system for real-time multiplayer chat and file sharing. | `C#` `.NET` `WCF` `WPF` `SQL` |
-| **🚗 Autonomous Vehicle Manager** | A simulation managing a fleet of vehicles using custom Graphs, Hash Tables, and sorting algorithms. | `Java` `Data Structures` `Algorithms` |
-| **🍔 Food Catalogue App** | A responsive Android app for discovering restaurants with real-time search and filters. | `Kotlin` `Android` |
-| **🗃️ Olympic Games Database** | A normalized relational database system with complex queries and stored procedures. | `MySQL` `SQL` `Python` |
+| **Online Gaming Lobby** | A full-stack, distributed system for real-time multiplayer chat and file sharing. | `C#` `.NET` `WCF` `WPF` `SQL` |
+| **Autonomous Vehicle Manager** | A simulation managing a fleet of vehicles using custom Graphs, Hash Tables, and sorting algorithms. | `Java` `Data Structures` `Algorithms` |
+| **Food Catalogue App** | A responsive Android app for discovering restaurants with real-time search and filters. | `Kotlin` `Android` |
+| **Olympic Games Database** | A normalized relational database system with complex queries and stored procedures. | `MySQL` `SQL` `Python` |
 
 
 ---
 
 ### 📫 Let's Connect!
 
-- 🎓 I’m currently pursuing my **Bachelor of Computing (Software Engineering)** at **Curtin University Malaysia** (CGPA: 3.89).
-- 👨‍💻 I’m actively looking for a **Software Engineering Internship**.
-- 📫 How to reach me: **luciuslzx@gmail.com**
-- ⚡ Fun fact: I can speak 3 languages! (English, Chinese, Malay) 🇬🇧 🇨🇳 🇲🇾
+- I’m currently pursuing my **Bachelor of Computing (Software Engineering)** at **Curtin University Malaysia** (CGPA: 3.89).
+- I’m actively looking for a **Software Engineering Internship**.
+- How to reach me: **luciuslzx@gmail.com**
+- Fun fact: I can speak 3 languages! (English, Chinese, Malay) 🇬🇧 🇨🇳 🇲🇾
 
 ---
-
-*Thanks for stopping by! Have a great day! 😄*
